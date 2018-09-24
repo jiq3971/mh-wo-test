@@ -1,9 +1,7 @@
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
     <title>mysql简介</title>
-
 </head>
 <body>
 <h1>MySql(关系型数据库管理系统)</h1>
