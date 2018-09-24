@@ -1,7 +1,9 @@
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
     <title>mysql简介</title>
+
 </head>
 <body>
 <h1>MySql(关系型数据库管理系统)</h1>
@@ -30,7 +32,7 @@
     <br>
 
     <div style="width: 1000px;display:none;word-break: break-all;word-wrap: break-word;">
-        ==mahuaBegin==cangmangdetianyashiwodeai,hhhhhh==mahuaEnd==
+        ==mahuaBegin==3454dfgdfsgdfgdfgdff ==mahuaEnd==
     </div>
 </ol>
 
